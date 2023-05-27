@@ -44,7 +44,7 @@ def genPlot(LindenmayerString,N,System):
 
 # Initial interface and setting up of L-system
 
-print("\nLindenmayer system project (David Miles-Skov: s204755)\n")
+print("\nLindenmayer system project (David Miles-Skov: sXXXXXX)\n")
 
 # Creating a dictionary of possible program functionality
 
